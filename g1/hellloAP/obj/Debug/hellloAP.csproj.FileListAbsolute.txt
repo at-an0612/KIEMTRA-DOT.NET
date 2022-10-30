@@ -1,8 +1,0 @@
-C:\Users\TGDD\source\repos\g1\hellloAP\bin\Debug\hellloAP.exe.config
-C:\Users\TGDD\source\repos\g1\hellloAP\bin\Debug\hellloAP.exe
-C:\Users\TGDD\source\repos\g1\hellloAP\bin\Debug\hellloAP.pdb
-C:\Users\TGDD\source\repos\g1\hellloAP\obj\Debug\hellloAP.csproj.AssemblyReference.cache
-C:\Users\TGDD\source\repos\g1\hellloAP\obj\Debug\hellloAP.csproj.SuggestedBindingRedirects.cache
-C:\Users\TGDD\source\repos\g1\hellloAP\obj\Debug\hellloAP.csproj.CoreCompileInputs.cache
-C:\Users\TGDD\source\repos\g1\hellloAP\obj\Debug\hellloAP.exe
-C:\Users\TGDD\source\repos\g1\hellloAP\obj\Debug\hellloAP.pdb

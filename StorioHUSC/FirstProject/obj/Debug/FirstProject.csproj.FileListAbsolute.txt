@@ -1,8 +1,0 @@
-C:\Users\TGDD\source\repos\StorioHUSC\FirstProject\bin\Debug\FirstProject.exe.config
-C:\Users\TGDD\source\repos\StorioHUSC\FirstProject\bin\Debug\FirstProject.exe
-C:\Users\TGDD\source\repos\StorioHUSC\FirstProject\bin\Debug\FirstProject.pdb
-C:\Users\TGDD\source\repos\StorioHUSC\FirstProject\obj\Debug\FirstProject.csproj.AssemblyReference.cache
-C:\Users\TGDD\source\repos\StorioHUSC\FirstProject\obj\Debug\FirstProject.csproj.SuggestedBindingRedirects.cache
-C:\Users\TGDD\source\repos\StorioHUSC\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
-C:\Users\TGDD\source\repos\StorioHUSC\FirstProject\obj\Debug\FirstProject.exe
-C:\Users\TGDD\source\repos\StorioHUSC\FirstProject\obj\Debug\FirstProject.pdb
