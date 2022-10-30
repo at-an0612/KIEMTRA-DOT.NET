@@ -1,0 +1,12 @@
+F:\C#\net\Buoi3\Buoi3\bin\Debug\Buoi3.exe.config
+F:\C#\net\Buoi3\Buoi3\bin\Debug\Buoi3.exe
+F:\C#\net\Buoi3\Buoi3\bin\Debug\Buoi3.pdb
+F:\C#\net\Buoi3\Buoi3\obj\Debug\Buoi3.csproj.AssemblyReference.cache
+F:\C#\net\Buoi3\Buoi3\obj\Debug\Buoi3.csproj.SuggestedBindingRedirects.cache
+F:\C#\net\Buoi3\Buoi3\obj\Debug\Buoi3.Form1.resources
+F:\C#\net\Buoi3\Buoi3\obj\Debug\Buoi3.Properties.Resources.resources
+F:\C#\net\Buoi3\Buoi3\obj\Debug\Buoi3.csproj.GenerateResource.cache
+F:\C#\net\Buoi3\Buoi3\obj\Debug\Buoi3.csproj.CoreCompileInputs.cache
+F:\C#\net\Buoi3\Buoi3\obj\Debug\Buoi3.exe
+F:\C#\net\Buoi3\Buoi3\obj\Debug\Buoi3.pdb
+F:\C#\net\Buoi3\Buoi3\obj\Debug\Buoi3.frmGiangVien.resources

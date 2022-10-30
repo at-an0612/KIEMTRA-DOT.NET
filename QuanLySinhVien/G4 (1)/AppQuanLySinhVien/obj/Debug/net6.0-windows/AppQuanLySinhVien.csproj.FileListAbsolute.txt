@@ -1,0 +1,17 @@
+D:\Workspace_C#\G4\AppQuanLySinhVien\bin\Debug\net6.0-windows\AppQuanLySinhVien.exe
+D:\Workspace_C#\G4\AppQuanLySinhVien\bin\Debug\net6.0-windows\AppQuanLySinhVien.deps.json
+D:\Workspace_C#\G4\AppQuanLySinhVien\bin\Debug\net6.0-windows\AppQuanLySinhVien.runtimeconfig.json
+D:\Workspace_C#\G4\AppQuanLySinhVien\bin\Debug\net6.0-windows\AppQuanLySinhVien.dll
+D:\Workspace_C#\G4\AppQuanLySinhVien\bin\Debug\net6.0-windows\AppQuanLySinhVien.pdb
+D:\Workspace_C#\G4\AppQuanLySinhVien\obj\Debug\net6.0-windows\AppQuanLySinhVien.csproj.AssemblyReference.cache
+D:\Workspace_C#\G4\AppQuanLySinhVien\obj\Debug\net6.0-windows\AppQuanLySinhVien.Form1.resources
+D:\Workspace_C#\G4\AppQuanLySinhVien\obj\Debug\net6.0-windows\AppQuanLySinhVien.csproj.GenerateResource.cache
+D:\Workspace_C#\G4\AppQuanLySinhVien\obj\Debug\net6.0-windows\AppQuanLySinhVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace_C#\G4\AppQuanLySinhVien\obj\Debug\net6.0-windows\AppQuanLySinhVien.AssemblyInfoInputs.cache
+D:\Workspace_C#\G4\AppQuanLySinhVien\obj\Debug\net6.0-windows\AppQuanLySinhVien.AssemblyInfo.cs
+D:\Workspace_C#\G4\AppQuanLySinhVien\obj\Debug\net6.0-windows\AppQuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Workspace_C#\G4\AppQuanLySinhVien\obj\Debug\net6.0-windows\AppQuanLySinhVien.dll
+D:\Workspace_C#\G4\AppQuanLySinhVien\obj\Debug\net6.0-windows\refint\AppQuanLySinhVien.dll
+D:\Workspace_C#\G4\AppQuanLySinhVien\obj\Debug\net6.0-windows\AppQuanLySinhVien.pdb
+D:\Workspace_C#\G4\AppQuanLySinhVien\obj\Debug\net6.0-windows\AppQuanLySinhVien.genruntimeconfig.cache
+D:\Workspace_C#\G4\AppQuanLySinhVien\obj\Debug\net6.0-windows\ref\AppQuanLySinhVien.dll
